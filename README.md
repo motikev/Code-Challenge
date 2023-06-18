@@ -1,22 +1,22 @@
 # Code - Challenge 
 
 ## By Kelvin Moti
-- It basically illustrates how Javascript can be used to come up with some solutions to the problems we experience in the real world.
+- Illustrates using Javascript to solve problems experienced in the real world.
 ## Table of content
 - Description
-- Technologies used 
-- Contacts and support
+- Technologies Applied
+- Contacts and Support
 - Licence
-- Authors Info
+- Author's Info
 ## DescriptionAuthors Info
-- <p>In the scenarios here we have two problems and they need to be solved, so i have come up with the solutions for the same problems using the Javascript code to write code that can solve that. The first problem being write a code that will be giving out the students grades based on there marks, then also write a code that will regulate the speed limits of drivers on the roads.</p>
+- <p>We have three problems in this scenario to solve using Javascript code. The first one is to write a code that will grade students as per their scores, the second one is a code that detects motorists' speeds and the final one is a net salary detector.</p>
 ## Technologies used 
-- This webpage was developed using:
-   - Javascript - which has been used to come up with the fucntion to generate returns and solve the problems.
+- This webpage is developed using:
+   - Javascript.
 ## Contacts and support
-- For more information or clarification, kindly reach out to kmotties@gmail.com
+- For more Information reach out: kmotties@gmail.com
 ## Authors Info
-- slack - Kelvin Moti
+- Slack_ Kelvin Moti
 ## LICENCE:
 
 MIT License
