@@ -1,8 +1,8 @@
-# Code - Challenge 
+# Code-Challenge 
 
 ## By Kelvin Moti
 - Illustrates using Javascript to solve problems experienced in the real world.
-## Table of content
+## Table of contentS
 - Description
 - Technologies Applied
 - Contacts and Support
@@ -13,7 +13,7 @@
 ## Technologies used 
 - This webpage is developed using:
    - Javascript.
-## Contacts and support
+## Contacts and Support
 - For more Information reach out: kmotties@gmail.com
 ## Authors Info
 - Slack_ Kelvin Moti
