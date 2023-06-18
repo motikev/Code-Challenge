@@ -2,24 +2,22 @@
 
 ## By Kelvin Moti
 - Illustrates using Javascript to solve problems experienced in the real world.
-## Table of contentS
+## Table of Contents
 - Description
 - Technologies Applied
 - Contacts and Support
 - Licence
 - Author's Info
-## DescriptionAuthors Info
+## Description
 - <p>We have three problems in this scenario to solve using Javascript code. The first one is to write a code that will grade students as per their scores, the second one is a code that detects motorists' speeds and the final one is a net salary detector.</p>
-## Technologies used 
+## Technologies Applied 
 - This webpage is developed using:
    - Javascript.
-## Contacts and Support
+## Contact and Support
 - For more Information reach out: kmotties@gmail.com
-## Authors Info
-- Slack_ Kelvin Moti
+## Author's Info
+- Slack_ Kelvin Moti Shombe
 ## LICENCE:
-
-MIT License
 
 Copyright (c) [2023] [Kelvin Moti]
 
