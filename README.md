@@ -14,7 +14,7 @@
 - This webpage was developed using:
    - Javascript - which has been used to come up with the fucntion to generate returns and solve the problems.
 ## Contacts and support
-- For more information or clarification, kindly reach out to isaacmogaka2016@gmail.com
+- For more information or clarification, kindly reach out to kmotties@gmail.com
 ## Authors Info
 - slack - Kelvin Moti
 ## LICENCE:
